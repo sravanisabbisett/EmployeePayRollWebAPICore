@@ -1,0 +1,1 @@
+﻿In admin controller, added date is 12/25/2020 3:10:11 PM sravani@gmail.com has been registered sucessfully
